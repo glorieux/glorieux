@@ -53,5 +53,5 @@ Simul'impact is a SaaS platform that helps French municipalities and engineering
 ## 📫 Let's Connect
 
 - **GitHub:** [@glorieux](https://github.com/glorieux)
-- **Company:** [Simul'Impact](https://simul-impact.fr)
+- **Company:** [Simul'impact](https://simul-impact.fr)
 - **Location:** Nantes, France
