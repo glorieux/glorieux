@@ -21,7 +21,7 @@ Simul'impact is a SaaS platform that helps French municipalities and engineering
 - **Urban Requalification** - Deimpermeabilization, mobility impacts, biodiversity restoration.
 
 **Architecture Highlights:**
-- 809+ commits in the last year.
+- 974+ commits in the last year.
 - 100% documentation coverage with enforced doctests.
 - Compile-time dependency validation for simulation graphs.
 - Property-based testing across 50+ simulation modules.
