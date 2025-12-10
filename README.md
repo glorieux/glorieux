@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Geoffroy Lorieux
 
-**CTO @ [Simul'impact](https://simul-impact.fr)** | Building the future of sustainable impact simulation
+**CTO @ [Simul'impact](https://simul-impact.fr)** | Building the future of sustainable impact simulation.
 
-📍 Nantes, France | 🍵 Currently focusing on environmental & social impact modeling
+📍 Nantes, France | 🍵 Currently focusing on environmental & social impact modeling.
 
 ## 🚀 Current Stack
 
